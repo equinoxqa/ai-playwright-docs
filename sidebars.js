@@ -28,9 +28,8 @@ const sidebars = {
       label: 'AI + Playwright',
       collapsed: false,
       items: [
-        'ai-playwright/overview',         // maps to docs/ai-playwright/overview.md
-        'ai-playwright/setup',            // maps to docs/ai-playwright/setup.md
-        'ai-playwright/generate-tests',   // maps to docs/ai-playwright/generate-tests.md
+        'ai-playwright/overview'         // maps to docs/ai-playwright/overview.m,
+
       ],
     },
   ],
